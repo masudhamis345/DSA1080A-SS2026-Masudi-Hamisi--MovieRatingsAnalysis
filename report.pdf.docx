@@ -111,3 +111,11 @@ Analyze genres and keywords for deeper insights
 This project analyzed movie ratings and user behavior using the MovieLens dataset. The results show that ratings are generally stable and that popularity does not strongly affect ratings.
 
 The project also shows the importance of cleaning data and using proper analysis methods.
+
+## References
+
+1. GroupLens Research. MovieLens Dataset. https://grouplens.org/datasets/movielens/
+2. Python Software Foundation. Python Documentation. https://www.python.org/
+3. Pandas Documentation. https://pandas.pydata.org/
+4. Matplotlib Documentation. https://matplotlib.org/
+5. GitHub. https://github.com/
